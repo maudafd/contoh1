@@ -12,4 +12,5 @@ git pull //ambil dr steching area
 buat 1 website fullstack php crud sederhana to do list
 delete all
 add
+commit
 push
