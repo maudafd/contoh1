@@ -1,1 +1,15 @@
-namaku fida
+namaku fida kuliah di PNM
+
+git add . //utk menambahkan file ke 
+git remove //menghapus file
+git restore //mnegembalikan file dan isi file
+git commit //mengunggah ke repository
+git log //melihat riwayat
+git remote -v //cek
+git pull //ambil dr steching area
+
+
+buat 1 website fullstack php crud sederhana to do list
+delete all
+add
+push
